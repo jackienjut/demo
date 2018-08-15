@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableCircuitBreaker
-public class ConsumerMovieRibbonHystrixApplication {
+public class ConsumerMovieRibbonHystrixPropagationApplication {
     @Bean
     @LoadBalanced
     public RestTemplate restTemplate() {
@@ -19,6 +19,6 @@ public class ConsumerMovieRibbonHystrixApplication {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(ConsumerMovieRibbonHystrixApplication.class, args);
+        SpringApplication.run(ConsumerMovieRibbonHystrixPropagationApplication.class, args);
     }
 }

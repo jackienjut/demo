@@ -1,0 +1,6 @@
+com\jackie\cloud\jackiesimpleconsumermovie\entity\User.class
+com\jackie\cloud\config\Configuration1.class
+com\jackie\cloud\feign\HystrixClientFallback.class
+com\jackie\cloud\jackiesimpleconsumermovie\ConsumerMovieFeignHystrixApplication.class
+com\jackie\cloud\feign\UserFeignClient.class
+com\jackie\cloud\jackiesimpleconsumermovie\controller\MovieController.class

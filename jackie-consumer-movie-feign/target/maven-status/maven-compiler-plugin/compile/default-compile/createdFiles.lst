@@ -1,0 +1,5 @@
+com\jackie\cloud\jackiesimpleconsumermovie\entity\User.class
+com\jackie\cloud\jackiesimpleconsumermovie\ConsumerMovieFeignApplication.class
+com\jackie\cloud\config\Configuration1.class
+com\jackie\cloud\jackiesimpleconsumermovie\UserFeignClient.class
+com\jackie\cloud\jackiesimpleconsumermovie\controller\MovieController.class

@@ -1,0 +1,12 @@
+server:
+  port: 7700
+eureka:
+  client:
+    serviceUrl:
+     defaultZone: http://user:password123@localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id:  ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+spring:
+  application:
+    name: jackie-consumer-movie-ribbon

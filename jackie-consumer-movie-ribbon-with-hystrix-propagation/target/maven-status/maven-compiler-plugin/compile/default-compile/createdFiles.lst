@@ -1,0 +1,3 @@
+com\jackie\cloud\jackiesimpleconsumermovie\entity\User.class
+com\jackie\cloud\jackiesimpleconsumermovie\controller\MovieController.class
+com\jackie\cloud\jackiesimpleconsumermovie\ConsumerMovieRibbonHystrixPropagationApplication.class

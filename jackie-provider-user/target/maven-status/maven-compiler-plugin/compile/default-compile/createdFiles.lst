@@ -1,0 +1,4 @@
+com\jackie\cloud\jackiesimpleprovideruser\dao\UserReposity.class
+com\jackie\cloud\jackiesimpleprovideruser\ProviderUserApplication.class
+com\jackie\cloud\jackiesimpleprovideruser\contrroller\UserController.class
+com\jackie\cloud\jackiesimpleprovideruser\enity\User.class

@@ -1,0 +1,6 @@
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\jackiesimpleconsumermovie\ConsumerMovieFeignHystrixApplication.java
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\feign\UserFeignClient.java
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\jackiesimpleconsumermovie\entity\User.java
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\feign\HystrixClientFallback.java
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\jackiesimpleconsumermovie\controller\MovieController.java
+D:\workspace\demo\jackie-consumer-movie-feign-with-hystrix\src\main\java\com\jackie\cloud\config\Configuration1.java

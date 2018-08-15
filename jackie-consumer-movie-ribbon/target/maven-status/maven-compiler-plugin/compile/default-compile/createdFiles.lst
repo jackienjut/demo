@@ -1,0 +1,5 @@
+com\jackie\cloud\config\TestConfiguration.class
+com\jackie\cloud\config\ExcludeFromComponentScan.class
+com\jackie\cloud\jackiesimpleconsumermovie\entity\User.class
+com\jackie\cloud\jackiesimpleconsumermovie\controller\MovieController.class
+com\jackie\cloud\jackiesimpleconsumermovie\ConsumerMovieRibbonApplication.class
